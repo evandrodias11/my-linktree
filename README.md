@@ -1,7 +1,7 @@
 <h1 align="center"> Linktree pessoal </h1>
 
 <p align="center">
-  <img src="https://github.com/evandrodias11/my-linktree/assets/65000871/bbfe5aad-1f45-4518-9a27-f07de598c3dc" width="50%">
+  <img src="https://github.com/evandrodias11/my-linktree/assets/65000871/4ce832d3-f079-4116-aa2e-185362a736b5" width="50%">
 </p>
 
 ## 🚀 Tecnologias
