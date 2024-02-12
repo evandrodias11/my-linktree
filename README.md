@@ -17,5 +17,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Aplicação simples com uma lista de links e projetos pessoais<br>
 
-- [Acesse o projeto finalizado, online](https://linktree-evandrodias.netlify.app/)
- 
+- [Acesse o projeto finalizado, online](https://mylinktree-evandrodias.netlify.app/)
